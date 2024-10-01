@@ -22,7 +22,7 @@ How to Use the Program?
 Getting started with the Caesar Cipher program is easy. Just follow these steps:
 
 Clone the repository to your local machine:
-git clone https:
+git clone https: https://github.com/githuperson/-PRODIGY_CS_01.git
 
 Navigate to the project directory:
 cd caesar-cipher
